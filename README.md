@@ -1,2 +1,4 @@
-# irondb
-IronDB is now ImmortalDB (https://github.com/gruns/ImmortalDB)
+# IronDB -> ImmortalDB
+
+IronDB was renamed to ImmortalDB (https://github.com/gruns/ImmortalDB) to avoid
+any unnecessary confusion with https://www.irondb.io/.
